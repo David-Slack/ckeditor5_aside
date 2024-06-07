@@ -1,0 +1,7 @@
+name: CKEditor 5 Aside
+description: 'Updates CKEditor 5 to add a &lt;aside&gt; to the headings list.'
+package: CKEditor 5
+type: module
+core_version_requirement: ^10
+dependencies:
+  - drupal:ckeditor5

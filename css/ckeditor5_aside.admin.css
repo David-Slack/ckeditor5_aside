@@ -1,0 +1,10 @@
+aside{
+  float: right;
+  width: 33%;
+  border: 3px solid #000000;
+  padding: 1%;
+  margin: 1% 0 1% 1%;
+  font-size:.8em;
+  line-height:1.4em;
+  box-shadow: 7px 7px 16px 5px rgba(0,0,0,0.20);
+}

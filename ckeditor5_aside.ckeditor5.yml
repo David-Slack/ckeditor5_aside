@@ -1,0 +1,15 @@
+ckeditor5_aside_customHeadings:
+  ckeditor5:
+    plugins: []
+    config:
+      heading:
+        options:
+          - { model: 'aside', title: 'Aside', view: 'aside' }
+  drupal:
+    label: CKEditor 5 Aside
+    library: ckeditor5_aside/admin.ckeditor5_aside
+    elements:
+      - <aside>
+    conditions:
+      plugins:
+        - ckeditor5_heading

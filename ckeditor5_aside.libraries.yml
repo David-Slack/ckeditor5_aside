@@ -1,0 +1,4 @@
+admin.ckeditor5_aside:
+  css:
+    theme:
+      css/ckeditor5_aside.admin.css: {}
